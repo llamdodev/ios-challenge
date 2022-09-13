@@ -60,4 +60,4 @@ Create a zip archive of the folder containing your solution. Include source
 code, README, Xcode project, and Makefile (or build shell script). Do _not_
 include anything related to any app you may have used to test your solution.
 
-Please send this zip archive to developers@waldo.io.
+You should have received an upload link from us. Please zip your work once it's complete and upload it there.
